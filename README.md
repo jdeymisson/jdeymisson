@@ -1,7 +1,7 @@
 ### Hey! Welcome to my profile! How is it going?  👋
 My name is Johnny Deymisson 🙎🏻‍♂️🇧🇷
 
-I am a student of Softwate Engineering and work as a Computer Technician.
+Student of Softwate Engineering and work as a Computer Technician.
 
 I am a lover of technology and I live in search of new challenges and learnings!
 
