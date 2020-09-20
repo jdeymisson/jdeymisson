@@ -5,7 +5,7 @@ Student of Softwate Engineering and work as a Computer Technician.
 
 I am a lover of technology and I live in search of new challenges and learnings!
 
-#### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
+#### 	"O vencendor sabe que o caminho da vitória é longo, mas nunca tira os olhos da meta.! " 🌍💪🏻
 - 📍 From RN, living in SC Concórdia.
 - 💻 Studying JS, NodeJs and Reactive Native.
 
