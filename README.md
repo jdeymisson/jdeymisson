@@ -7,7 +7,7 @@ I am a lover of technology and I live in search of new challenges and learnings!
 
 #### 	"O vencendor sabe que o caminho da vitória é longo, mas nunca tira os olhos da meta! " 🌍💪🏻
 - 📍 From RN, living in SC Concórdia.
-- 💻 Studying JS, NodeJs and Reactive Native.
+- 💻 HTML, CSS, JavaScript and React.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@johnnyd_OFC-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/johnnyd_ofc)](https://twitter.com/johnnyd_ofc) 
