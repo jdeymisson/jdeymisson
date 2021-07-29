@@ -1,4 +1,6 @@
 ## Oláa, tudo beleeza? 🤙
+Hoje trabalho com Front-End / UX/UI 👨‍💻
+Estudando a Stack JavaScript 👽
  <div>
   <a href="https://github.com/jdeymisson">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=jdeymisson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
