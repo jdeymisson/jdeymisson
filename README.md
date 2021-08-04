@@ -1,5 +1,6 @@
-## Oláa, tudo beleeza? 🤙
- <img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
+## Oláa, tudo beleeza? 🤙 
+ 
+<img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
         alt="jdeymisson" />
 <p>Front-End / UX/UI 👨‍💻</p>
 <p>Graduando em Engenharia de Software - UNC 🎓</p> 
