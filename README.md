@@ -11,15 +11,18 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeymisson&layout=compact&langs_count=7&theme=highcontrast"/>
 
 </div>
+<h2> Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="johnny-SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
+  <img align="center" alt="johnny-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
 </div>
   
-  ##
  
+ <h2>Mídias Sociais e contato:</h2>
 <div> 
     <a href="https://www.linkedin.com/in/johnny-deymisson-3b223b133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/deymissonj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
