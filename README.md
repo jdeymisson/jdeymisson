@@ -19,6 +19,7 @@
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="johnny-SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
   <img align="center" alt="johnny-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+  <img align="center" alt="johnny-git" height="40"  width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 </div>
   
  
