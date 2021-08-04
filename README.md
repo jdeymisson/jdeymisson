@@ -1,5 +1,6 @@
 ## Oláa, tudo beleeza? 🤙
-<p>Hoje trabalho com Front-End / UX/UI 👨‍💻</p>
+<p>Front-End / UX/UI 👨‍💻</p>
+<p>Graduando de Engenharia de Software - UNC 🎓</p> 
 <p>Estudando a Stack JavaScript 👽</p>
 <p>Concórdia - SC 📍 🏠</p> 
 
