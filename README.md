@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
         alt="jdeymisson" />
 <p>Front-End / UX/UI 👨‍💻</p>
-<p>Graduando em Engenharia de Software - UNC 🎓</p> 
+<p>Graduando em Engenharia de Software - Universidade do Contestado - UNC 🎓</p> 
 <p>Estudando a Stack JavaScript 👽</p>
 <p>Concórdia - SC 📍 🏠</p> 
 
