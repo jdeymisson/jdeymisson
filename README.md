@@ -17,9 +17,9 @@
   <img align="center" alt="johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="johnny-SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
-  <img align="center" alt="johnny-Figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-  <img align="center" alt="johnny-git" height="40"  width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img align="center" alt="johnny-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
+  <img align="center" alt="johnny-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+  <img align="center" alt="johnny-git" height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </div>
   
  
