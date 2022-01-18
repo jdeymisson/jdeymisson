@@ -1,4 +1,4 @@
-## Eae, beleza? 🤙 Me chamo Johnny Deymisson.
+<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Johnny, seja bem vindo 🎉</h1>
  
 <img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
         alt="jdeymisson" />
