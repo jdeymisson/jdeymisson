@@ -1,23 +1,28 @@
 # Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Johnny, seja bem vindo 🎉
-![image](https://user-images.githubusercontent.com/68932001/150622966-b18f0da6-d148-45d7-9cbb-e491e821e673.png)
+![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/68932001/150623003-2f7afea5-fb76-45d2-99e2-d50746e2bd95.gif)
 
  
-<img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
-        alt="jdeymisson" />
-<p>Front-End / UX/UI 👨‍💻</p>
-<p>Graduando em Engenharia de Software - Universidade do Contestado - UNC 🎓</p> 
-<p>Estudando a Stack JavaScript 👽</p>
-<p>Concórdia - SC 📍 🏠</p> 
+<img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat" alt="jdeymisson" />
 
-<p><i>"A aprendizagem é a bússola que nos guia numa evoluçao contínua."</br>
- - Joel Fonseca.</i></p>
- <div>
+##  💡 Sobre mim :
+* Me chamo Johnny Deymisson e sou natural do Rio grande do Norte, porém, moro em Concórdia - SC 📍 🏠
+
+* Curso Engenharia de Software na Universidade do Contestado(UnC) 🎓
+
+* Apaixonado por Desenvolvimento Web, em especial por Front End e me aventurando no Desenvolvimento Beck End com NodeJs 💚
+
+* Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX. 
+
+* Estudando a Stack JavaScript 👽
+
+* <p><i>"A aprendizagem é a bússola que nos guia numa evoluçao contínua."</br>
+ 
   <a href="https://github.com/jdeymisson">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=jdeymisson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeymisson&layout=compact&langs_count=7&theme=highcontrast"/>
+ 
+   ## 👽 Tecnologias usadas no dia a dia: 
 
-</div>
-<h2>🔮 Linguagens e Ferramentas que uso no dia a dia:
 <div style="display: inline_block"><br>
   <img align="center" alt="johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
