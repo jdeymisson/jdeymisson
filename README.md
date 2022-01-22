@@ -24,7 +24,7 @@
   <img align="center" alt="johnny-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
   <img align="center" alt="johnny-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   <img align="center" alt="johnny-git" height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-  <img align="center" alt="johnny-postman" width="30" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img align="center" alt="johnny-postman" width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
  
 <h2>Mídias Sociais e contato:</h2>
 <div> 
