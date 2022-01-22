@@ -1,4 +1,6 @@
-<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Johnny, seja bem vindo 🎉</h1>
+# Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Johnny, seja bem vindo 🎉
+![image](https://user-images.githubusercontent.com/68932001/150622966-b18f0da6-d148-45d7-9cbb-e491e821e673.png)
+
  
 <img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat"
         alt="jdeymisson" />
@@ -15,7 +17,7 @@
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeymisson&layout=compact&langs_count=7&theme=highcontrast"/>
 
 </div>
-<h2> Linguagens e Ferramentas:
+<h2>🔮 Linguagens e Ferramentas que uso no dia a dia:
 <div style="display: inline_block"><br>
   <img align="center" alt="johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="johnny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
