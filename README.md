@@ -24,10 +24,9 @@
   <img align="center" alt="johnny-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/> 
   <img align="center" alt="johnny-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
   <img align="center" alt="johnny-git" height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</div>
-  
+  <img align="center" alt="johnny-postman" width="30" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
  
- <h2>Mídias Sociais e contato:</h2>
+<h2>Mídias Sociais e contato:</h2>
 <div> 
     <a href="https://www.linkedin.com/in/johnny-deymisson-3b223b133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/deymissonj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
