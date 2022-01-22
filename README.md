@@ -4,24 +4,24 @@
  
 <img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat" alt="jdeymisson" />
 
-##  💡 Sobre mim :
+## 💡 Sobre mim :
 * Me chamo Johnny Deymisson e sou natural do Rio grande do Norte, porém, moro em Concórdia - SC 📍 🏠
 
 * Curso Engenharia de Software na Universidade do Contestado(UnC) 🎓
 
 * Apaixonado por Desenvolvimento Web, em especial por Front End e me aventurando no Desenvolvimento Beck End com NodeJs 💚
 
-* Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX. 
+* Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX. 🌆
 
-* Estudando a Stack JavaScript 👽
+* Estudando a Stack JavaScript 🚀
 
-* <p><i>"A aprendizagem é a bússola que nos guia numa evoluçao contínua."</br>
+## 📈 Estatísticas
  
   <a href="https://github.com/jdeymisson">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=jdeymisson&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdeymisson&layout=compact&langs_count=7&theme=highcontrast"/>
  
-   ## 👽 Tecnologias usadas no dia a dia: 
+ ## 👽 Tecnologias usadas no dia a dia: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="johnny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
