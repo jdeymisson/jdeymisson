@@ -1,8 +1,6 @@
 # Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Johnny, seja bem vindo 🎉
 ![68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966](https://user-images.githubusercontent.com/68932001/150623003-2f7afea5-fb76-45d2-99e2-d50746e2bd95.gif)
 
- 
-<img src="https://komarev.com/ghpvc/?username=jdeymisson&label=Profile%20views&color=0e75b6&style=flat" alt="jdeymisson" />
 
 ## 💡 Sobre mim :
 * Me chamo Johnny Deymisson e sou natural do Rio grande do Norte, porém, moro em Concórdia - SC 📍 🏠
