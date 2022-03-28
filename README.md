@@ -7,7 +7,7 @@
 
 * Curso Engenharia de Software na Universidade do Contestado(UnC) 🎓
 
-* Apaixonado por Desenvolvimento Web, em especial por Front End e me aventurando no Desenvolvimento Beck End com NodeJs 💚
+* Apaixonado por Desenvolvimento Web, em especial por Front End e me aventurando no Desenvolvimento Beck-end com NodeJs 💚
 
 * Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX. 🌆
 
