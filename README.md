@@ -5,13 +5,11 @@
 ## 💡 Sobre mim :
 * Me chamo Johnny Deymisson e sou natural do Rio grande do Norte, porém, moro em Concórdia - SC 📍 🏠
 
-* Curso Engenharia de Software na Universidade do Contestado(UnC) 🎓
+* Engenheiro de Software 🎓
 
-* Apaixonado por Desenvolvimento Web, em especial por Front End e me aventurando no Desenvolvimento Back-end com NodeJs 💚
+* Apaixonado por Desenvolvimento Web e me aventurando em desenvolvimento mobile💚
 
-* Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX. 🌆
-
-* Estudando a Stack JavaScript 🚀
+* Gosto de desenvolver minhas próprias UI, aplicando conhecimentos de UX/ IU. 🌆
 
 ## 📈 Estatísticas
  
